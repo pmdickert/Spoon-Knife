@@ -18,7 +18,3 @@ def divide(x, y):
 
 def sq_power(x):
     return x**x
-
-
-def cube_power(x):
-    return x**(x**x)
